@@ -1,0 +1,17 @@
+{
+    "name": "thiagochfc/pdo",
+    "description": "Aprendendo a utilizar o PDO do PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "thiagochfc\\pdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago Christopher",
+            "email": "thiago.cfc@hotmail.com"
+        }
+    ],
+    "require": {}
+}
